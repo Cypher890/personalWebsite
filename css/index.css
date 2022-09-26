@@ -500,7 +500,7 @@ body{
     padding: 30px;
     border-radius: 40px;
     margin-left: 120px;
-    object-fit: cover;
+    object-fit: contain;
 }
 .about-img {
     width: 550px;
